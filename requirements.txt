@@ -1,0 +1,8 @@
+SQLAlchemy==2.0.27
+langchain==0.1.9
+langchain-community==0.0.24
+langchain-core==0.1.26
+langchain-openai==0.0.7
+langsmith==0.1.6
+openai==1.12.0
+dotenv
